@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.div_1{
+    width: 400px; height: 200px;
+    background-color: blanchedalmond;
+    margin: 5px;
+}
+.div_2{
+    width: 400px; height: 200px;
+    background-color:blue;
+    margin: 5px;
+}
